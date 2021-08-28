@@ -1,3 +1,3 @@
 # clone
-This just a simple clone webage HTML Template
+Hosted Url
 https://ijayhub.github.io/clone/
